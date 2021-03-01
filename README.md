@@ -25,7 +25,7 @@ To Visit App:
 
 `localhost:3000/`  
 
-##Setup after Installation and Cloning
+## Setup after Installation and Cloning
 
 `cd Job`
 
