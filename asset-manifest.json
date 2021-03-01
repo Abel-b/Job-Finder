@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Job-Finder/static/css/main.c6f65529.chunk.css",
+    "main.js": "/Job-Finder/static/js/main.e5f4beb8.chunk.js",
+    "main.js.map": "/Job-Finder/static/js/main.e5f4beb8.chunk.js.map",
+    "runtime-main.js": "/Job-Finder/static/js/runtime-main.c1d71f2a.js",
+    "runtime-main.js.map": "/Job-Finder/static/js/runtime-main.c1d71f2a.js.map",
+    "static/js/2.7f2e54a3.chunk.js": "/Job-Finder/static/js/2.7f2e54a3.chunk.js",
+    "static/js/2.7f2e54a3.chunk.js.map": "/Job-Finder/static/js/2.7f2e54a3.chunk.js.map",
+    "static/js/3.1a77f483.chunk.js": "/Job-Finder/static/js/3.1a77f483.chunk.js",
+    "static/js/3.1a77f483.chunk.js.map": "/Job-Finder/static/js/3.1a77f483.chunk.js.map",
+    "index.html": "/Job-Finder/index.html",
+    "static/css/main.c6f65529.chunk.css.map": "/Job-Finder/static/css/main.c6f65529.chunk.css.map",
+    "static/js/2.7f2e54a3.chunk.js.LICENSE.txt": "/Job-Finder/static/js/2.7f2e54a3.chunk.js.LICENSE.txt",
+    "static/media/logo1.ba595509.svg": "/Job-Finder/static/media/logo1.ba595509.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d71f2a.js",
+    "static/js/2.7f2e54a3.chunk.js",
+    "static/css/main.c6f65529.chunk.css",
+    "static/js/main.e5f4beb8.chunk.js"
+  ]
+}
