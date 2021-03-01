@@ -31,5 +31,13 @@ To Visit App:
 
 `npm start`
 
+### Contact
+Github [Abel-b](https://github.com/Abel-b)
+
+### LICENSE
+MIT License [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+
+&copy; 2021 Abel-B
 
 
